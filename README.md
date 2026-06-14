@@ -6,6 +6,10 @@ This project analyzes survey responses from 101 participants to examine the rela
 
 The project was completed using Microsoft Excel and demonstrates skills in data cleaning, Pivot Tables, descriptive statistics, percentage calculations, and data visualization.
 
+## Dashboard Preview
+
+![Summary Dashboard](summary-dashboard.png)
+
 ## Objectives
 
 * Organize and clean survey data
@@ -37,6 +41,14 @@ The project was completed using Microsoft Excel and demonstrates skills in data 
 * Female respondents reported depression more frequently than male respondents within this sample.
 * Pivot Table analysis allowed efficient comparison of depression status across gender groups.
 
+## Analysis Visualization
+
+![Pivot Analysis](pivot-analysis.png)
+
+## Raw Data Sample
+
+![Raw Data](raw-data.png)
+
 ## Skills Demonstrated
 
 * Data Cleaning
@@ -47,14 +59,7 @@ The project was completed using Microsoft Excel and demonstrates skills in data 
 * Research Methods
 * Data Visualization
 
-## Project Files
-
-* Raw Data
-* Depression Gender Analysis
-* Summary Dashboard
-* Visualization Chart
-
 ## Author
 
-Tahmid Ahmed Adib
+Tahmid Ahmed Adib  
 Psychology Major | University at Buffalo
